@@ -1,4 +1,4 @@
-#  Embedded Challenge Spring 2022
+# NYU-ECE6483 Embedded Challenge Spring 2022
 blood-pressure
 
 ## Demonstration Video
